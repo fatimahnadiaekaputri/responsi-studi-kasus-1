@@ -3,7 +3,7 @@
 Nama : Fatimah Nadia Eka Putri  
 NIU : 497876  
 Sesi : 1  
-Secret String : Secret String: 789c70d0f1d2531defbd1d08e132226904e25e3d36739355429552fb54051a4520250523010558
+Secret String : 789c70d0f1d2531defbd1d08e132226904e25e3d36739355429552fb54051a4520250523010558
 
 ## Checklist Responsi
 
